@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">T-Soft AR</string>
+    <string name="title_activity_tabbed">T-Soft AR</string>
+    <string name="tab1">Tab1</string>
+    <string name="tab2">Tab2</string>
+    <string name="tab3">Tab3</string>
+    <string name="ar_katalog">AR Katalog</string>
+    <string name="t_m_r_nler">Tüm Ürünler</string>
+    <string name="tarza_g_re">Tarza Göre</string>
+    <string name="son_g_r_nt_lenen">Son Görüntülenen</string>
+    <string name="r_n_ba_l">Ürün Başlığı</string>
+    <string name="kategori">Kategori</string>
+    <string name="a_klama">Açıklama</string>
+    <string name="r_n_dene">Ürünü Dene</string>
+    <string name="todo">TODO</string>
+    <string name="ar_screen">AR SCREEN</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="kapat">Kapat</string>
+    <string name="todo2">TODO2</string>
+    <string name="button3">Button3</string>
+    <string name="kapat2">KAPAT2</string>
+    <string name="todo5">TODO5</string>
+    <string name="yardim3">YARDIM3</string>
+    <string name="yardim">YARDIM</string>
+    <string name="Geri"><![CDATA[<-]]></string>
+    <string name="Help"><![CDATA[(?)]]></string>
+    <string name="ekran">Ekran</string>
+    <string name="help_action">\?</string>
+    <string name="button5">Button5</string>
+    <string name="screenshot_action">Take a screenshot</string>
+    <string name="screenshot_loading">Screenshot in progress…</string>
+    <string name="screenshot_success">Your screenshot is ready to be shared</string>
+    <string name="Alert1">Boş bir alanın önünde ayakta durun.</string>
+    <string name="Alert2">Telefonunuzu düz ve köşeli zemine hedefleyin, ardından yavaşça geri adım atın. Ürün yerleştirmeye hazır olacaktır.</string>
+    <string name="Alert3">Tek parmağınızı kullanarak ürünü yerleştirin ve ekranda hareket ettirin.</string>
+    <string name="Alert4">İki parmağınızla ekranı yukarı ve aşağı kaydırarak ürününüzü döndürün.</string>
+    <string name="ler">İLERİ</string>
+    <string name="todo99">TODO</string>
+    <string name="bug1">Ortamınızın yeterince aydınlık olmasına dikkat edin.</string>
+    <string name="bug2">Yüzey bulunduktan sonra görseli yerleştirmek istediğiniz yere dokunun.</string>
+    <string name="baslik">Kullanım Talimatları</string>
+    <string name="bug3">Aşırı parlak ve yansıyan yüzeylerde denemeyin.</string>
+
+    <!--    <string name="todo2">TODO2</string>-->
+
+
+</resources>

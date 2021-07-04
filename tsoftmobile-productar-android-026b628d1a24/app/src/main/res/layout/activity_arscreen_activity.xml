@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/arscreen_activity"
+        tools:context=".arscreen_activity">
+
+    <fragment
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/arFragment"
+            android:name="com.google.ar.sceneform.ux.ArFragment"/>
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <Button
+
+
+        android:id="@+id/helpButton"
+        android:textColor="#ffff"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="2dp"
+        android:layout_marginRight="2dp"
+        android:background="@drawable/back_bg"
+        android:text="@string/help_action"
+        android:textSize="24sp" />
+
+        <ImageButton
+                android:layout_marginTop="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:background="@drawable/back_bg"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:id="@+id/geri"
+                android:clickable="true"
+                android:layout_centerHorizontal="true"
+                tools:src="@drawable/close8"
+                android:src="@drawable/close8"/>
+    </RelativeLayout>
+
+    <ProgressBar
+            android:id="@+id/progressBar"
+            android:visibility="gone"
+            tools:visibility="gone"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_centerInParent="true"/>
+
+
+</RelativeLayout>
